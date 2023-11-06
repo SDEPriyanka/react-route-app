@@ -1,0 +1,18 @@
+.insuranceplan {
+    margin-top: 30px;
+  }
+  .Insuranceplan-heading p {
+    display: none;
+  }
+  .Insuranceplan-heading h4 {
+    font-size: 35px;
+  }
+  .header {
+    background-color: rgb(243, 243, 243);
+  }
+  
+  .insurance-desc {
+    font-size: 15px;
+    margin: 20px 0px;
+  }
+  

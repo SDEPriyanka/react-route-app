@@ -1,0 +1,24 @@
+.about-img img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+.lidership-page{
+    text-align: center;
+}
+.advisory-page{
+    text-align: center;
+}
+.lidership-image img{
+    height: 170px;
+    width: 160px;
+
+}
+.advisoryboard {
+    background-color: rgb(212, 229, 239);
+    
+}
+.leadershipteam{
+    background-color:  rgb(212, 238, 236);
+
+}

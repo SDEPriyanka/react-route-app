@@ -1,0 +1,12 @@
+.footer-desc p {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer-desc img {
+    width: 44px;
+}
+.footer-desc{
+    background-color: rgb(26, 26, 26);
+    color:white;
+}

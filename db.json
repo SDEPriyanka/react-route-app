@@ -1,0 +1,47 @@
+{
+  "LeadershipTeam": [
+    {
+      "id": 1,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/03/image-1.png",
+      "name":"Ankur Marda",
+      "desingnation": "Co-Founder-CEO ",
+      "department": "Education & Work"
+    },
+    {
+      "id": 2,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/03/image-5.png",
+      "name":"Hitesh Sarda",
+      "desingnation": "COperations & Finance ",
+      "department": "Education & Work"
+    },
+    {
+      "id": 3,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/03/image-4.png",
+      "name":"Ashish Marballi",
+      "desingnation": "Product Development",
+      "department": "Education & Work"
+    }
+
+  ],
+  "AdvisoryBoard": [
+    {
+      "id": 1,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/04/investor-2-150x150.png",
+      "name": "Sharad Heda",
+      "description": "IT industry ve teran and an authority in modern IT Infrastructure domain. One of Architects of Microlands growth and transformation journey since its formative years. Certified Six-Sigma Green Belt, a mentor for IT start-ups.Certified Six-Sigma Green Belt, a mentor for IT start-ups A Gold Medallist in Electronics Engineering from NIT, Nagpur & Rank holder in M.M.S. from JBIMS, Mumbai."
+    },
+    {
+      "id": 2,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/04/investor-1.png",
+      "name": "Pankaj Prasoon",
+      "description": "Capital Markets veteran with rich experience of 20+years spanning across Equity Research & Management, Banking, Risk & Liquidity Management. Mentors Corporates & Start-ups on business growth strategy including investment research with extensive exposure to primary research. "
+    },
+    {
+      "id": 3,
+      "imgurl":"https://gokhana.com/wp-content/uploads/2022/04/investor-3.png",
+      "name": "PG Ponnapa",
+      "description": "Founder of Limites Non which offers Coaching, Mentoring and Business advisory services that help start-ups take key Strategic Business Decisions in the technology space. He has worked in organizations from FMCG to the Internet, Durables to Mobile VAS. He holds a degree in Engineering from NIT, Karnataka & MBA from IIM, Calcutta."
+    }
+  ]
+
+}

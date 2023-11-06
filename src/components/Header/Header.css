@@ -1,0 +1,21 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+p {
+  padding: 0px;
+  margin: 0px;
+}
+.navbar-brand img {
+  height: 43px;
+  width: 210px;
+}
+ 
+.nav-item .nav-link button {
+  border: 0px;
+  color: rgb(0, 72, 255);
+  background-color: white;
+  border: 1px solid rgb(0, 72, 255);
+  border-radius: 5px;
+  padding: 2px 6px;
+}
