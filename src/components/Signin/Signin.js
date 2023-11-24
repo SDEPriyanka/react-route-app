@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-
+import "./signin.css";
+ 
 function Signin() {
   const [email, setEmail] = useState("");
   const [pswd, setPswd] = useState();
@@ -21,11 +22,11 @@ function Signin() {
 
   return (
     <div>
-      <div className="form">
+      <div className="form ">
         <div className="cntainer">
-          <form className="login">
-            <h4>Login</h4>
-            <div className="mb-3 mt-1">
+          <form className="login card p-4 m-5">
+            <h4 className="text-center">Login</h4>
+            <div className="mb-3 mt-1 ">
               <label className="form-label">Email:</label>
               <input
                 type="email"
@@ -58,7 +59,7 @@ function Signin() {
             </button>
 
             <div>
-              <Link to="signup" className="signup">
+              <Link to="/signup" className="signup">
                 SignUp
               </Link>
             </div>

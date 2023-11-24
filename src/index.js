@@ -12,6 +12,7 @@ import Productdetails from './components/Product/Productdetails';
 import Userdetails from './components/User/Userdetails';
 import Signin from './components/Signin/Signin';
 import Privateroute from './components/Auth/Privateroute';
+import Signup from './components/Signup/Signup';
 
 
 const userheading ="User";
@@ -22,12 +23,8 @@ const router = createBrowserRouter(
 
          <Route path="/" element={<Home />} />
          <Route path="/signin" element={<Signin />} />
-
+         <Route path="/signup"element={<Signup/>}/>
          <Route path="/about" element={ <Privateroute Component = {About}/>} />
-
-      
-
-
          <Route path="/product" element={<Product productheading = {productheading}  />}   />
          <Route path="/user" element={<User userheading = {userheading} />} />
          <Route path="/product/:id" element={<Productdetails/>}/>
